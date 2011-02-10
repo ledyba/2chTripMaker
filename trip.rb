@@ -1,3 +1,6 @@
+#! /usr/bin/ruby1.9.1
+# -*- coding: Windows-31J -*-
+
 require 'kconv'
 require "cgi"
 #’è”’è‹`
