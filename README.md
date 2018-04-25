@@ -5,4 +5,4 @@
 
 公開しない理由もないので整理ついでに公開
 
-一応実動中 -> http://ledyba.org/cgi/trip.rb
+一応実動中 -> https://app.7io.org/2chTrip/
